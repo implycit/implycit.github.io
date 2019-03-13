@@ -4,12 +4,6 @@
         url(https://images.pexels.com/photos/1550618/pexels-photo-1550618.jpeg?dl&fit=crop&crop=entropy&w=2813&h=4032");
 }
 
-body {
-    background-color: grey;
-}
-
-
-
 h1 {
     color : yellow;
     text-align: center;
